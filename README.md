@@ -6,7 +6,7 @@ Currently this is a jupyter notebook you can change too your liking
 # What Works: 
 - Import subscriptions (without thumbnails)
 
-# What Sort Of Works (With Work Arounds/Stipulations)
+# What Sort Of Works (With Work Arounds/Stipulations): 
 - Importing Plaulists (Free Tube's playlist feature does not seem fully implemented, so playlists keep getting deleted [though this may be something I am doing wrong], but you can pick one playlist too add, just send it too the bottom of the JSON file before starting Free Tube)
 - Getting Thumbnails sorta... does not work (currently you can do this by going through channels and subscribing/unsubscribing, Free Tube will fetch the Thumbnail)
 
